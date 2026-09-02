@@ -1,0 +1,16 @@
+customtkinter
+Pillow
+reportlab
+EbookLib
+PyPDF2
+numpy
+opencv-python
+matplotlib
+pyinstaller
+python-barcode==0.16.1
+openai==3.0.0
+pydantic==2.13.4
+keyring==25.7.0
+google-genai
+streamlit
+google-generativeai
